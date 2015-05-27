@@ -1,3 +1,9 @@
 {
-    "name": "hub-configs"
+    "name": "hub-configs",
+    "version": "0.0.0",
+    "description": "hub-configs",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/serandules/hub-configs.git"
+    }
 }
