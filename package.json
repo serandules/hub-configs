@@ -2,6 +2,9 @@
     "name": "hub-configs",
     "version": "0.0.0",
     "description": "hub-configs",
+    "dependencies": {
+        "logger": "serandules/logger#master"
+    },
     "repository": {
         "type": "git",
         "url": "git://github.com/serandules/hub-configs.git"
